@@ -348,9 +348,7 @@ padding: 0.1rem;
         font-size: 14px;
     }
 
-    input {
-        width: 90%;
-    }
+    
 
     .tag {
         background: linear-gradient(to right, #6a11cb, #2575fc);
